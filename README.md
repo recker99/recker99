@@ -11,6 +11,7 @@
 |----------|-------------|-------------|
 | [Food App Bootstrap](https://github.com/recker99/food_app_bootstrap) | Aplicación web de gestión de comida | PHP, Bootstrap |
 | [Librería WPF](https://github.com/recker99/WPF_Library_App) | Sistema de administración de libros | C#, WPF, SQL Server |
+| [AppAfiliadosAngular](https://github.com/recker99/AppAfiliadosAngular) | Sistema de gestión de locales comerciales | Angular,TypeScript,Css3,Node.js |
 
 ---
 ### 🛠 Tecnologías
