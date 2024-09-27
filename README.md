@@ -1,15 +1,18 @@
 <div align="center">
 # 👋 Hola, soy Iván (Recker99)
-## 💻 Desarrollador de Aplicaciones Multiplataforma
-</div>
----
 
+---
+</div>
 <div align="center">
 
-### 🚀 Proyectos Destacados
- [🍔 Food App Bootstrap](https://github.com/recker99/food_app_bootstrap)
- [📚 Librería WPF](https://github.com/recker99/WPF_Library_App)
+### 🗂 Proyectos Destacados
 
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Food App Bootstrap](https://github.com/recker99/food_app_bootstrap) | Aplicación web de gestión de comida | PHP, Bootstrap |
+| [Librería WPF](https://github.com/recker99/WPF_Library_App) | Sistema de administración de libros | C#, WPF, SQL Server |
+
+---
 ### 🛠 Tecnologías
 
 #### 💻 Lenguajes y Frameworks
