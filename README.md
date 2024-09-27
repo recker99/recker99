@@ -1,11 +1,10 @@
+<div align="center">
 # 👋 Hola, soy Iván (Recker99)
 ## 💻 Desarrollador de Aplicaciones Multiplataforma
-
+</div>
 ---
 
 <div align="center">
-
-## 📊 Dashboard
 
 ### 🚀 Proyectos Destacados
  [🍔 Food App Bootstrap](https://github.com/recker99/food_app_bootstrap)
